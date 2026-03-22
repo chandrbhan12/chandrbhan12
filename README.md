@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 
 👨‍💻 About Me:-
-💻I’m currently working on Full Stack Web Development Projects<br>🤝 I’m looking to collaborate on real-world problem solving apps & startup ideas<br>🛠️ I’m looking for help with scaling applications & advanced backend systems<br>📚 I’m currently learning Advanced JavaScript, System Design & Cloud<br>💬 Ask me about Java, Web Development, APIs & Projects<br>⚡ Fun fact: I love building projects that solve real-life problems 🚀
+💻I’m currently working on Full Stack Web Development Projects<br>🤝 I’m looking to collaborate on real-world problem solving web apps & startup ideas<br>🛠️ I’m looking for help with scaling applications & advanced backend systems<br>📚 I’m currently learning Advanced JavaScript, System Design & Cloud<br>💬 Ask me about Java, Web Development, APIs & Projects<br>⚡ Fun fact: I love building projects that solve real-life problems 🚀
 
 
 ## 🌐 Let's Connect:
